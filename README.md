@@ -54,7 +54,7 @@ Windows is the initial target platform. macOS support may be considered in a fut
 
 ## Disclaimer
 
-This project is an independent open-source utility and is not affiliated with or endorsed by Microsoft.
+This project is an independent, source-available utility and is not affiliated with or endorsed by Microsoft.
 
 DotNetCorePatchNotifier does not download or install patches automatically.
 
