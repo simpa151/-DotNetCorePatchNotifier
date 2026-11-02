@@ -106,12 +106,12 @@ namespace DotNetCorePatchNotifier
                 //                            """);
 
 
-                //FOR TEST =>
-                db.Database.ExecuteSqlRaw("""
-                                            UPDATE AppSettings
-                                            SET LastCheckUTC = NULL
-                                            WHERE Id = 1;
-                                            """);
+               ////FOR TEST =>
+                //db.Database.ExecuteSqlRaw("""
+                //                            UPDATE AppSettings
+                //                            SET LastCheckUTC = NULL
+                //                            WHERE Id = 1;
+                //                            """);
             }
 
             // Start background monitoring.
